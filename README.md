@@ -1,5 +1,6 @@
 # logistic-trends-rate-dynamics
 MATLAB code to reproduce figures for “How does the rate of environmental change affect density-dependent population dynamics?”, including logistic-map trends, bifurcation and superimposition diagrams, cobweb plots, noisy environments, step changes, and trend-rate scans.
+The preprint is accessible at https://doi.org/10.32942/X2KW98 with figure numbers corresponding to the description below.
 
 # Code for logistic-map and trend-induced dynamics figures
 This repository contains MATLAB scripts used to reproduce the main and supplementary figures associated with the manuscript:
