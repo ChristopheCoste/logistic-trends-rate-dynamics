@@ -44,6 +44,8 @@ It contains the matrix `trend_rate_scan_data`. Columns correspond to environment
 5. generation at which `lambda_t` crosses 3, `t_3(r)`
 6. post-trend transient duration, `D(r)`
 
+A CSV copy of this matrix is provided in [`trend_rate_scan_data.csv`](trend_rate_scan_data.csv), with one row per trend rate (one column of the matrix) and columns `scan_index` (column number in the `.mat` matrix), `T`, `r`, `t_o`, `b`, `t_3` and `D`, in the order listed above. Values are written at full precision. The scripts load the `.mat` file; the CSV is provided for use outside MATLAB.
+
 To regenerate this file from scratch, run:
 - [`Compute_trend_rate_scan_data.m`](Compute_trend_rate_scan_data.m)
 Regenerating the data can be slow.
