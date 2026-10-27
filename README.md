@@ -6,7 +6,7 @@ The preprint is accessible at https://doi.org/10.32942/X2KW98 with figure number
 This repository contains MATLAB scripts used to reproduce the main and supplementary figures associated with the manuscript:
 
 **“How does the rate of environmental change affect density-dependent population dynamics?”**
-by Christophe F. D. Coste, Brett Petersen, Dongbo Li, Chenggui Yuan, Steven M. Sait, and Mike S. Fowler.
+by Christophe F. D. Coste, Brett Petersen, Dongbo Li, Chenggui Yuan, Steven M. Sait, and Mike S. Fowler; https://doi.org/10.32942/X2KW98.
 
 ## Abstract
 Natural populations experience variable environments. Anthropogenically driven environmental change, in particular, is expected to impose trends on key demographic parameters related to reproduction and survival.
