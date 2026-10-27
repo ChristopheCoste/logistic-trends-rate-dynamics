@@ -2,7 +2,7 @@ Code for logistic-map and trend-induced dynamics figures
 
 This repository contains MATLAB scripts used to reproduce the main and supplementary figures associated with the manuscript
 "How does the rate of environmental change affect density-dependent population dynamics?" 
-by Christophe F. D. Coste, Brett Petersen, Dongbo Li, Chenggui Yuan, Steven M. Sait, and Mike S. Fowler.
+by Christophe F. D. Coste, Brett Petersen, Dongbo Li, Chenggui Yuan, Steven M. Sait, and Mike S. Fowler; doi.org/10.32942/X2KW98
 
 Abstract: 
 "Natural populations experience variable environments. Anthropogenically driven environmental change, in particular, is expected to impose trends on key demographic parameters related to reproduction and survival. 
@@ -15,7 +15,6 @@ Traditional methods fail to reveal these patterns and we introduce an r-bifurcat
 We show that our findings and approaches are robust across modelling frameworks and ecological contexts, e.g., incorporating trophic interactions and short-term stochastic fluctuations, and in discrete- and continuous time models. 
 Our work provides new insights into interactions between short- and long-term environmental change processes, linking concepts of the rate of environmental change with regime shifts, bifurcations and tipping points. 
 For a population undergoing an environmental trend, the journey towards the post-trend state can be as important as the destination."
-
 
 The scripts focus mostly on logistic-map dynamics under a linear trend (but also consider constant environments, nonlinear environmental trends, noisy environments, step changes, reverse trends) via time-series, superimposition diagrams and cobweb diagrams. One script also reproduces a prey-predator system under trend.
 
