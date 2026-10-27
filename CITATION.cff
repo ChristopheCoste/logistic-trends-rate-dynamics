@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "logistic-trends-rate-dynamics: code for 'How does the rate of environmental change affect density-dependent population dynamics?'"
+abstract: "MATLAB code and cached data to reproduce the figures of Coste et al., 'How does the rate of environmental change affect density-dependent population dynamics?' (preprint: https://doi.org/10.32942/X2KW98)."
+license: MIT
+authors:
+  - family-names: Coste
+    given-names: "Christophe F. D."
+    orcid: "https://orcid.org/0000-0003-3680-5049"
+    affiliation: "Norwegian Institute for Nature Research (NINA)"
+  - family-names: Petersen
+    given-names: Brett
+    affiliation: "Swansea University"
+  - family-names: Li
+    given-names: Dongbo
+    orcid: "https://orcid.org/0000-0003-0471-7917"
+    affiliation: "University of Leeds"
+  - family-names: Yuan
+    given-names: Chenggui
+    orcid: "https://orcid.org/0000-0003-0486-5450"
+    affiliation: "Swansea University"
+  - family-names: Sait
+    given-names: "Steven M."
+    orcid: "https://orcid.org/0000-0002-7208-8617"
+    affiliation: "University of Leeds"
+  - family-names: Fowler
+    given-names: "Mike S."
+    orcid: "https://orcid.org/0000-0003-1544-0407"
+    affiliation: "Swansea University"
